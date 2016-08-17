@@ -1,0 +1,2 @@
+# clinkitwptheme
+ClinkIT Wordpress Theme
